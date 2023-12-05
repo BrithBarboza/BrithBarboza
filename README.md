@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋, I'm Brith Barboza</h1>
 
-* 👩🏻‍💻 I’m currently working in [Neoris](https://www.linkedin.com/company/neoris/).
+* 👩🏻‍💻 I’m currently working in [Entelgy](https://www.entelgy.com).
 * ✨ Tell me about: **Angular, TypeScript, JavaScript, UI/UX and prototype design.**
 * 📬 How to reach me **brith.19.04@gmail.com**
 
